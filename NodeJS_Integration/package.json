@@ -19,10 +19,11 @@
     "loopback-component-explorer": "^6.2.0",
     "loopback-connector-mysql": "^5.3.1",
     "serve-favicon": "^2.0.1",
-    "strong-error-handler": "^3.0.0"
+    "strong-error-handler": "^3.0.0",
+    "mkdirp": "latest"
   },
   "devDependencies": {
-    "eslint": "^3.17.1",
+    "eslint": "^3.19.0",
     "eslint-config-loopback": "^8.0.0"
   },
   "repository": {
